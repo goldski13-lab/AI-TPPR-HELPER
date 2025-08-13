@@ -1,6 +1,7 @@
-streamlit
-pandas
-numpy
-plotly
-streamlit-plotly-events
-pillow
+requirements.txt
+├─ streamlit
+├─ plotly
+├─ pandas
+├─ numpy
+└─ streamlit-plotly-events==0.0.6
+
